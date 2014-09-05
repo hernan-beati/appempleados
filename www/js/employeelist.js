@@ -1,4 +1,4 @@
-var serviceURL = "http://localhost/jquerymobile/appempleados/services/";
+var serviceURL = "http://www.saberweb.net/appempleados/services/";
 
 var employees;
 
